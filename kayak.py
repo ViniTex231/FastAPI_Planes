@@ -5,7 +5,7 @@ import sys
 import time
 from urllib import urlencode
 
-//API_KEY = ""
+API_KEY = ""
 
 class Kayak(object):
     http = httplib2.Http()
